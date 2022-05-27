@@ -1,4 +1,4 @@
-# Cat-vs-Dog-Binary-Classififer
+# Cat-vs-Dog-Binary-Classifier
 A custom binary classifier model made using ResNet50 pretrained model. 
 <br/>
 <br/>
